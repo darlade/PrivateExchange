@@ -13,6 +13,9 @@ We charge a flat rate of 0.003 XMR per transaction.
 # First time guide
 
 1: Enter the amount of Monero you want to swap.
+
 2: Enter your address.
+
 3: Click confirm.
+
 4: Receive coins.
